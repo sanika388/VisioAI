@@ -171,9 +171,12 @@ streamlit run app.py
 
 **GitHub**: [https://github.com/Rishikesh4089/VisioAI](https://github.com/Rishikesh4089/VisioAI)
 
----
+### 🎥 System Demonstration
+See the full video demonstration of the Image Captioning and Segmentation in action on my LinkedIn:
 
-## Project Status
+👉 [**Watch the Project Demo Video Here**]( https://www.linkedin.com/posts/sanika-sachin-dusane_zidio-internshipexperience-computervision-activity-7355294198478061568-Z_NQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHihlMB50UhpI8LX-mRsKZiXQcm8PVm7bU)
+
+ 
 
 - **Completed**
 - Supports all general image types
