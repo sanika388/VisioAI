@@ -1,4 +1,12 @@
+## 👩‍💻 My Contribution
+As a core developer on this collaborative project, I focused on the end-to-end integration of the Computer Vision models and the deployment of the user interface.
 
+*   **Model Integration**: Assisted in optimizing the **Mask R-CNN** segmentation head to ensure precise pixel-wise object detection.
+*   **System Architecture**: Structured the backend logic to handle simultaneous image processing for both captioning (RNN/LSTM) and segmentation tasks.
+*   **Web Interface**: Developed and refined the **Streamlit** dashboard to provide a seamless, real-time user experience for image uploads and result visualization.
+*   **Documentation**: Authored the technical project report and system setup guides to ensure the repository is deployment-ready.
+
+---
 # VisioAI: Image Captioning & Segmentation App
 
 This project integrates **image captioning** and **image segmentation** using deep learning techniques. It enables users to upload an image and:
